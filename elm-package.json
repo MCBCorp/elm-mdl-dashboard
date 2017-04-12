@@ -4,7 +4,7 @@
     "repository": "https://github.com/vipentti/elm-mdl-dashboard.git",
     "license": "MIT",
     "source-directories": [
-        "src"
+        "src/elm"
     ],
     "exposed-modules": [],
     "dependencies": {
